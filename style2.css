@@ -3,5 +3,10 @@ body {background-image: url("mybackground.jpg")
 #nav-td {width: 200px; text-align:center;}
 #matt-pic {width: 400px;
   float: left}
-#
+#patriots-pic {width: 400px;
+  float: left}
+#photo-pic {width: 400px;
+  float: right}
+#porshe-pic {width: 400px;
+  float: right}
               
