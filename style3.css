@@ -1,7 +1,7 @@
 #nav-table {width: 800px;}
 #nav-td {width: 200px; text-align:center;}
 div.content { width: 800px }
-#matt-img {width: 800px; float: left;}
-#photo-img {width: 800px; float: right;}
-#patriots-img {width: 800px; float: left;}
-#porshe-img {width: 800px; float: right;}
+#matt-img {width: 100px; float: left;}
+#photo-img {width: 100px; float: right;}
+#patriots-img {width: 100px; float: left;}
+#porshe-img {width: 100px; float: right;}
