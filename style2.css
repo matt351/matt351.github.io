@@ -1,3 +1,4 @@
-body {background-image: url("mybackground.jpg");}
+body {background-image: url("mybackground.jpg")
+      background-repeat: repeat-x;}
 #nav-table {width: 800px;}
 #nav-td {width: 200px; text-align:center;}
